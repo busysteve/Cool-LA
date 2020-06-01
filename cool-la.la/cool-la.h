@@ -5,15 +5,16 @@
 #include <FL/fl_draw.H>
 #include <math.h>
 #include <vector>
+#include "la.h"
 //#include <dlib/matrix.h>
-#include <tnt.h>
+//#include <tnt.h>
 #include <thread>
 #include <chrono>
 
 
 #define PI	3.14159265358979323846
 
-using namespace TNT;
+//using namespace TNT;
 using namespace std;
 
 
